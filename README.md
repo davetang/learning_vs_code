@@ -1,3 +1,10 @@
+## Table of Contents
+
+- [VS Code](#vs-code)
+  - [Installation](#installation)
+  - [Getting started](#getting-started)
+  - [Check out](#check-out)
+
 # VS Code
 
 My notes on [VS Code](https://code.visualstudio.com/) as I try to learn more about it.
@@ -32,3 +39,7 @@ Click the Extensions icon in the left sidebar (or press Ctrl+Shift+X) and search
 * **Python**
 * **GitLens** (enhanced Git features)
 * **Remote - SSH**
+
+## Check out
+
+* [VS Code in the browser](https://github.com/coder/code-server) - run VS Code on any machine anywhere and access it in the browser.
